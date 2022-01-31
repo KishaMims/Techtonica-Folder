@@ -1,5 +1,12 @@
+h1{
+  font-family: 'Neonderthaw', cursive;
+  font-size: 100px
+}
+div.navbar{
+  font-size: 25px
+}
 body {
-  font-family: "Lucida Console", "Courier New", monospace;
+  font-family: 'Signika Negative', sans-serif;
     background: #FFFFF0;
     color: red;
     text-align: center;
@@ -31,7 +38,7 @@ body {
     width: 32%;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 560px) {
     img {
         width: 100%;
     }
